@@ -81,7 +81,7 @@ src/
 
 ### Home Page
 
-(Add Screenshot)
+
 
 ### Product Listing
 
